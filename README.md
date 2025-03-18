@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm binaturo</h1>
+<h1 align="center">Hi 👋, I'm bitnaturo</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
 - 📝 I regularly write articles on [https://blog.csdn.net/jsd0915](https://blog.csdn.net/jsd0915)
